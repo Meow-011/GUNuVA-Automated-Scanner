@@ -1,13 +1,3 @@
-
-<div align="center">
-
-<p align="right">
-  [English](#english) | [ภาษาไทย](#ภาษาไทย)
-</p>
-</div>
-
----
-
 ## ⚠️ Warning
 
 > This project was created **for educational and experimental purposes** in cybersecurity within a **controlled lab environment ONLY**.  
@@ -121,6 +111,8 @@ chmod +x gunuva.sh
 ```
 > Creates directory: `VA_Results_example.com_[TIMESTAMP]`
 
+---
+---
 ---
 
 ## ภาษาไทย <a name="ภาษาไทย"></a>
