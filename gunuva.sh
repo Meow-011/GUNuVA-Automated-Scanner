@@ -3,7 +3,6 @@
 
 # #############################################################################
 # GUNuVA - Automated Web Application VA Script
-# Author: Gemini (as a Cybersecurity Automation Expert)
 # Version: 4.4 (Robust JS Analysis Argument Passing)
 #
 # Description:
